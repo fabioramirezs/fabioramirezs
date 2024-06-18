@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fabio A. Ramírez Salamanca
-==================================================================================================================================================
+Hi 👋 My name is Fabio A. Ramírez Salamanca
+===========================================
 
 * 🌍  I'm based in Bogotá - Colombia
 * ✉️  You can contact me at [fabioalexander.ramirez@gmail.com](mailto:fabioalexander.ramirez@gmail.com)
